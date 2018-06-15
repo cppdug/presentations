@@ -13,3 +13,8 @@
 - [2018-05-14](https://www.meetup.com/cppdug/events/250608496/)
 	- "Thoroughly Modern Mongo: Modernising the MongoDB Codebase" by Bernard Gorman ([video](https://www.youtube.com/watch?v=F1i7R2lfPHw), [slides](https://github.com/cppdug/presentations/blob/master/files/2018-05-14/Thoroughly%20Modern%20Mongo.pptx))
 	- "Writing Linux File System for Fun" by Maciej Grochowski ([video](https://www.youtube.com/watch?v=sLR17lUjTpc), [slides](https://github.com/cppdug/presentations/blob/master/files/2018-05-14/WritingFS4Fun.pptx))
+
+- [2018-06-11](https://www.meetup.com/cppdug/events/251408066/)
+	- "Variadic templates and fold-expressions" by Denis Sukhonin ([video](https://www.youtube.com/watch?v=XjOVebhUOY8), [slides](https://github.com/cppdug/presentations/blob/master/files/2018-06-11/Variadic_templates_and_fold-expressions.pdf))
+	- "JSON++ - A simple C++ class library for JSON" by PJ Naughter ([video](https://www.youtube.com/watch?v=HH23rsNIH8I), [slides](https://github.com/cppdug/presentations/blob/master/files/2018-06-11/JSON++_Introduction.pptx))
+	- "ctypes made easy" by Peter Edwards ([video](https://www.youtube.com/watch?v=p_LUzwylf-Y), [slides](https://aristanetworks.github.io/ctypegen/))
